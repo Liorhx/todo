@@ -1,0 +1,16 @@
+.drop_area {
+  width: 100%;
+  border: 1px dashed rgb(204, 203, 203);
+  border-radius: 5px;
+  padding: 10px;
+  height: 100px;
+  background-color: rgb(215, 243, 243);
+  color: #dcdcdc;
+  /* cursor: grab; */
+  margin-bottom: 15px;
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+}
+.hide_area {
+  opacity: 0;
+}

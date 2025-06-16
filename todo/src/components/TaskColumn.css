@@ -1,0 +1,12 @@
+.task_Col {
+  width: 300px;
+  margin-bottom: 20px;
+  /* background-color: red; */
+}
+.task_col_heading {
+  display: flex;
+}
+.task_icon {
+  width: 30px;
+  margin-right: 5px;
+}

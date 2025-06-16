@@ -1,0 +1,7 @@
+.app_main {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  flex-wrap: wrap;
+  margin: 10px;
+}
