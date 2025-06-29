@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Header from "./components/header";
+import Header from "./components/Header";
 import "./App.css";
 import todoIcon from "./assets/icons8-bullseye-50.png";
 import doingIcon from "./assets/icons8-star-100.png";
