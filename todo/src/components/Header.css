@@ -44,3 +44,8 @@
   background-color: rgb(107, 42, 206);
   color: white;
 }
+@media (max-width: 510px) {
+  .task_input {
+    width: 350px;
+  }
+}
